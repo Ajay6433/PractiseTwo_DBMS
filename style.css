@@ -1,0 +1,30 @@
+*{
+     box-sizing: border-box;
+}
+.child {
+     font-weight: bold;
+     width: 429px;
+     margin: 0px 0px 0px 0px;
+     /* text-align: right; */
+     /* border: 2px solid black; */
+}
+.child1 {
+     font-weight: bold;
+     width: 429px;
+     text-align: center;
+     margin: 0px 0px 0px 300px;
+     /* border: 2px solid black; */
+}
+.child2 {
+     font-weight: bold;
+     width: 429px;
+     margin: 0px 0px 0px 300px;
+     /* border: 2px solid black; */
+     text-align: right;
+     font-weight: bold;
+     
+}
+.parent {
+    display: flex;
+    /* width: 429px; */
+}
